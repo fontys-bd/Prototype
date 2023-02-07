@@ -4,5 +4,9 @@ module.exports = {
   theme: {
     extend: {},
   },
+  corePlugins: {
+    maxWidth: true,
+    minWidth: true,
+  },
   plugins: [],
 };
